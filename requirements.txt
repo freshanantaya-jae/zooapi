@@ -1,0 +1,3 @@
+fastapi[standard]>=0.115
+httpx>=0.27
+openpyxl>=3.1
